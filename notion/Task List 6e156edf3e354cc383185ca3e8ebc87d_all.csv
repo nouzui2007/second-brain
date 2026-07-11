@@ -1,0 +1,103 @@
+﻿Name,Date Created,Status,完了日,組織
+,"May 21, 2021 2:16 PM",,,
+ミッション達成設計,"June 2, 2024 4:58 PM",Done 🙌,,junni
+称号APIで画像を返す修正,"June 2, 2024 5:20 PM",Done 🙌,,junni
+ユーザ取得メソッド修正,"June 2, 2024 5:20 PM",Done 🙌,,junni
+ミッションのバッチ設計,"June 2, 2024 5:20 PM",Done 🙌,,junni
+開発申請アプリ構成図作成,"June 2, 2024 5:27 PM",Done 🙌,,aigid
+図面管理機能実装,"June 2, 2024 5:27 PM",Done 🙌,,シーキューブ
+海外対応開発見積,"June 2, 2024 5:28 PM",Done 🙌,"June 7, 2024",iridge
+仲間招待設計,"June 4, 2024 7:15 AM",Done 🙌,,junni
+仲間招待実装,"June 4, 2024 7:15 AM",Done 🙌,,junni
+海外対応追加洗い出し,"June 6, 2024 1:04 PM",Done 🙌,"June 7, 2024",iridge
+お休み連絡,"June 10, 2024 9:55 AM",Done 🙌,,aigid
+進捗書き込み,"June 10, 2024 9:56 AM",Done 🙌,,aigid
+金子さんに明日予定確認,"June 10, 2024 9:56 AM",Done 🙌,,家族
+統合DB基本設計,"June 10, 2024 7:04 PM",Done 🙌,"June 17, 2024",iridge
+ミッション設計追加,"June 12, 2024 5:26 AM",Done 🙌,,junni
+称号取得,"June 26, 2024 5:53 PM",Done 🙌,,junni
+性能負荷テスト設計作成,"June 26, 2024 5:53 PM",Done 🙌,,iridge
+輔のアパート更新,"July 3, 2024 10:26 AM",Done 🙌,"July 4, 2024",家族
+累積系のカウントをuser_missionsのレコードに反映させる,"July 3, 2024 10:18 PM",Done 🙌,"July 5, 2024",junni
+ユーザ情報が変わった時、関連するキャッシュをクリアする,"July 3, 2024 10:18 PM",Done 🙌,"July 5, 2024",junni
+マスター系の情報が変わった時、関連するキャッシュをクリアする,"July 4, 2024 4:33 PM",Done 🙌,,junni
+テスト修正,"July 20, 2024 6:13 AM",Done 🙌,,junni
+遺失物管理見積,"July 20, 2024 6:24 AM",Done 🙌,,シーキューブ
+シーキューブ請求,"August 3, 2024 7:17 PM",Done 🙌,"August 4, 2024",mqsol
+資料作成,"August 3, 2024 7:17 PM",Done 🙌,"August 4, 2024",iridge
+開発申請見積,"September 12, 2024 5:10 PM",Done 🙌,,aigid
+自動連携まとめ,"September 12, 2024 5:11 PM",Done 🙌,,aigid
+変換ツールをECRで動作させる,"September 12, 2024 5:15 PM",Done 🙌,,aigid
+現時点のリクエスト数,"September 12, 2024 5:43 PM",Done 🙌,,iridge
+ミッションのパフォーマンス改善,"September 12, 2024 6:13 PM",Done 🙌,,junni
+バグ対応,"September 12, 2024 6:13 PM",Done 🙌,,junni
+AWS接続確認,"September 12, 2024 6:14 PM",Done 🙌,,aigid
+仲間招待期限が正しく減らない,"September 12, 2024 6:14 PM",Done 🙌,,junni
+性能計測テストデータ設計,"September 13, 2024 1:04 PM",Done 🙌,,iridge
+荒木さん振り込み,"October 4, 2024 11:52 AM",Done 🙌,,
+ホームページ作成,"October 31, 2024 4:30 PM",To Do,,シーキューブ
+ホームページ作成,"October 31, 2024 4:31 PM",Done 🙌,,mqsol
+平栗教授に連絡,"October 31, 2024 4:31 PM",To Do,,mqsol
+ホームページ作成,"October 31, 2024 4:35 PM",Done 🙌,,陽だまり
+リリースタイムチャート作成,"November 6, 2024 11:08 AM",Done 🙌,,iridge
+死亡後の手続き(義母),"December 4, 2024 4:18 PM",Done 🙌,,家族
+高山でやる,"December 5, 2024 10:52 PM",Done 🙌,"December 23, 2024",家族
+位牌確認,"December 6, 2024 11:59 AM",Done 🙌,,家族
+北海道経費の精算口座と追加経費枠の確認,"December 13, 2024 2:35 PM",Done 🙌,,シーキューブ
+相続会議,"December 14, 2024 4:50 PM",Done 🙌,"December 15, 2024",家族
+J&J宛のアジェンダ作成,"January 18, 2025 9:14 PM",Done 🙌,,陽だまり
+弥生→freeeデータ移行,"January 18, 2025 9:14 PM",Done 🙌,,陽だまり
+利用規約、プラポリ生成,"January 18, 2025 9:15 PM",Done 🙌,,陽だまり
+HP追加手順伝達,"January 18, 2025 9:15 PM",Done 🙌,,陽だまり
+越谷会場予約,"February 16, 2025 2:59 PM",Done 🙌,,Code4Soka
+アンケート完成,"February 16, 2025 3:01 PM",Done 🙌,,陽だまり
+振替伝票修正,"February 16, 2025 3:01 PM",Done 🙌,,陽だまり
+ロイヤルトラスト見積,"February 16, 2025 3:12 PM",Done 🙌,,mqsol
+Office365アカウント回復,"February 16, 2025 6:21 PM",Done 🙌,,ソマリ
+idecoの情報確認,"February 17, 2025 11:25 AM",Done 🙌,,家族
+SBT：WBS作成,"February 21, 2025 6:05 PM",Done 🙌,"February 22, 2025",iridge
+SBT：状況整理,"February 21, 2025 6:06 PM",Done 🙌,"February 24, 2025",iridge
+SEO対策,"February 21, 2025 6:23 PM",Done 🙌,,aigid
+JR西日本APIポータル,"February 25, 2025 5:50 PM",Done 🙌,,iridge
+遺産分割協議書作成,"March 7, 2025 12:54 AM",Done 🙌,,家族
+銀行手続き確認,"March 7, 2025 12:55 AM",Done 🙌,,家族
+高山　買い物,"March 7, 2025 1:51 PM",Done 🙌,,家族
+預金の遺産相続手続き,"March 8, 2025 11:21 AM",Done 🙌,,家族
+3/8中に行うこと,"March 8, 2025 12:50 PM",Done 🙌,,家族
+陽だまり名刺作成,"March 8, 2025 6:02 PM",Done 🙌,,陽だまり
+JINNS メガネマウス,"March 9, 2025 10:32 AM",Pending,,個人
+ハーバードCS50,"March 9, 2025 10:34 AM",Pending,,個人
+3/10やること,"March 9, 2025 10:30 PM",Done 🙌,,家族
+土地関連調査,"March 10, 2025 11:10 AM",Pending,,家族
+次男ゆうちょ銀行,"March 10, 2025 12:04 PM",Pending,,家族
+家屋相続手続き,"March 14, 2025 2:15 PM",Pending,,家族
+会計士連絡,"March 15, 2025 6:31 PM",Done 🙌,,陽だまり
+名刺 データ送付,"March 18, 2025 2:39 PM",Done 🙌,,陽だまり
+仕様確認,"March 18, 2025 2:43 PM",Done 🙌,,aigid
+メールアカウント 連絡,"March 18, 2025 2:43 PM",Done 🙌,,陽だまり
+武田さん飲み会 再設定,"March 18, 2025 2:48 PM",Done 🙌,,個人
+sbt案件パートナー,"March 18, 2025 2:48 PM",Done 🙌,,シーキューブ
+立替経費精算,"March 25, 2025 8:55 AM",Done 🙌,,陽だまり
+振込,"March 31, 2025 10:23 AM",Done 🙌,,mqsol
+請求,"March 31, 2025 10:23 AM",Done 🙌,,mqsol
+キックバック仕様作成,"April 1, 2025 3:41 PM",Done 🙌,,mqsol
+mwe自己紹介スライド作成,"April 7, 2025 8:21 PM",Done 🙌,,陽だまり
+陽だまり名刺,"April 7, 2025 8:22 PM",Done 🙌,,陽だまり
+G空間OKR,"April 7, 2025 8:22 PM",Done 🙌,,aigid
+会計データ送付,"April 9, 2025 8:27 AM",Done 🙌,,陽だまり
+minnainfoメール送信確認,"April 9, 2025 8:27 AM",Done 🙌,,陽だまり
+サーバー構成相談,"April 9, 2025 8:28 AM",Done 🙌,"July 4, 2025",royaltrust
+レイヤージェネレータをAIGID環境にデプロイ,"April 10, 2025 7:20 AM",Done 🙌,,aigid
+資料作成,"May 11, 2025 12:24 AM",Done 🙌,,陽だまり
+提案資料,"May 11, 2025 12:27 AM",Done 🙌,,mqsol
+G空間資料作成,"June 10, 2025 8:19 AM",Done 🙌,"June 13, 2025",aigid
+開発許可申請昨年度資料作成,"June 10, 2025 8:20 AM",Done 🙌,"June 13, 2025",aigid
+ロイヤルトラスト見積,"June 12, 2025 8:40 AM",Done 🙌,"June 13, 2025",mqsol
+DCS資料作成,"June 13, 2025 11:32 AM",Done 🙌,"June 16, 2025",aigid
+メール送信機能実装,"June 13, 2025 11:32 AM",Done 🙌,"July 6, 2025",シーキューブ
+サロン一覧の実現性確認,"June 28, 2025 1:56 PM",Done 🙌,"July 4, 2025",royaltrust
+振込,"June 28, 2025 9:02 PM",Done 🙌,"June 30, 2025",mqsol
+DockerでSpring Bootビルド,"July 2, 2025 2:27 PM",Done 🙌,"July 7, 2025",aigid
+Dockerで3DViewビルド,"July 2, 2025 2:30 PM",Done 🙌,"July 7, 2025",aigid
+,"July 8, 2025 8:15 AM",To Do,,
+ドトール非機能要件ドラフト,"July 8, 2025 8:18 AM",Done 🙌,"July 18, 2025",iridge

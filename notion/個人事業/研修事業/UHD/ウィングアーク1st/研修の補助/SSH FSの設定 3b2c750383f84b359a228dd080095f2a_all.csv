@@ -1,0 +1,6 @@
+﻿項目名,設定値,説明
+Name,ec2_kenshu_makiuchi,設定名。ここではEC2に作成したインスタンス名を使用。
+Username,ec2-user,接続するユーザ名。
+Host,18.118.3.234,作成したEC2インスタンスのIPアドレス。
+Private key,key-makiuchi.pem,Promptから、EC2インスタンスのpemファイルを指定する。
+Root,/usr/share/nginx/html,ディレクトリ以下を777に変更しておく。

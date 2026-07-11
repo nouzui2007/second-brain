@@ -1,0 +1,3 @@
+# vitalはユーザに紐づけられた値をとってくるべきだが、device_userをどこで取得できるか。
+
+回答: bandinqの戻りにdevice_userが戻る
